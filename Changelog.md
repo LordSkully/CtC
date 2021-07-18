@@ -3,7 +3,7 @@
 ### New Content For Old Biomes
 - Wild Tubers can be uncommonly spotted in The Constant's grasslands and clearings. When dug up, they reward you with 17.5 Hunger & work as a potato in the crock pot.
 - Webbed Trees are uncommonly spotted in The Constant's forests. They are home to a new kind of arboreal spider that shoots wooden pulp at you.
-- Asparagus can really be found in clearing, but more commonly found near large areas of ponds. 
+- Asparagus can rearely be found in clearings, but more commonly found near large areas of ponds. 
 - Brine Pools spawn in the mosiac and can be found in the Rockylands. They spawn skittish Salt Crabs that can be killed for fish meat, rocks, or salt.
 ### Setpiece Changes
 - The Gigantic Bee Hive can spawn in any "bee" biome. It is surrounded by 4 hornet nests
@@ -39,7 +39,7 @@
 - Spider Warriors & Depth Dwellers have 300 Health but deal 30 Damage
 - Spitter Spiders have a 1/3 chance to drop a *Spituitary Gland*
 - Spiders will not panic when on fire or in the presence of a raid boss
-- Woodweavers are new ranged spiders that spawn from Webbed Trees
+- Woodweavers are new ranged spiders that spawn from Webbed Trees. They also drop Spituitary Glands
 ##### Misc
 - Clockwork Rooks no longer run away, and they charge faster with a smaller wait in between charges
 - Clockwork Bishops drop gears instead of thulecite chunks
@@ -62,6 +62,7 @@
 - Walking Cane adds only 20% speed & has 25D durability, but is more easily accessible
 - Eyebrella gives no summer insulation 
 - Spiderhat spoils instead of having durability, it takes 2 days to spoil.
+- The Ice Maker 3000 has been ported from ShipWrecked. It has a different recipe and makes ice once every 1/6D
 #### Armor
 - Log Suit has 360 Durability
 - Grass Suit has 65% Absorption
@@ -95,7 +96,61 @@
 - The Life-Giving Amulet heals 15 HP per Hunger and can now do it 30 times
 
 
-## Structures
-
+## Events/Mechanics
+### Summer Days / Winter Nights
+- There is a small chance during Winter/Summer that you will get the respective day event.
+- In Winter, you will get one segment of evening with 15 segments of night. In Summer you will get 15 segments of day with 1 segment of night
+### Spider Hordes
+- Every 25-35 Days, your team will be besieged by a horde of spiders
+- The spiders in question, known as siege spiders, are relentless and do not obey to Webber
+- For the first one or two waves, the attack will be finished off by the Spider Queen rearing her head towards the carnage. After that, a far more terrifying monster will accost you: The Spider King
+- The Spider King is a brand new boss with 5,000 health and 3/4 custom attacks. He drops 2 Tusks, 6 Monster Meat & a Spiderhat.
+### Tallbird Domestication
+- Tallbird Eggs take 2 Days to hatch, Smallbirds take 10 Days to grow, and Teenbirds take 8 Days to grow.
+- Smallbirds are now omnivorous
+- Teenbirds, instead of turning into a tallbird, will turn into an Inert Nest, which spawns a Domesticated Tallbird
+- Domesticated Tallbirds will attack a variety of small animals and will eat food off the ground. They have 100 hunger and 25 drains per day
+- Every 2 days, they will lay an egg at their nest that is free to take
+### Growable Bananas
+- In the Food Tab, you can craft a banana tree sprout with 3 Cave Bananas, 3 Red Caps, and 2 Living Logs. 
+- They take 3 days to grow into a tree and then will grow bananas every 3 days
 ## Food
-
+### Healing Foods
+- *Crockpot foods have undergone a massive balance*
+- *Any food that heals you for more than 10 HP will do it over the course of 2 minutes unless stated otherwise*
+- **Jelly Salad:** 0 HP, 20 Sanity
+- **Trail Mix:** 6 HP, 10 Sanity
+- **Spiralled Tubers:** 6 HP, 15 Sanity
+- **Butter Muffin:** 10 HP, 15 Sanity
+- **Pumpkin Cookie:** 10 HP, 30 Sanity
+- **Melonsicle:** 10 HP, 40 Sanity
+- **Pierogi:** 15 HP, 5 Sanity
+- **Fishsticks:** 15 HP, 5 Sanity
+- **Froggy Bunwhich:** 15 HP, 15 Sanity, 47.5 Hunger
+- **Dragonpie:** 20 HP, 15 Sanity
+- **Surf n' Turf:** 20 HP, 33 Sanity
+- **Lobster Dinner:** 20 HP, 150 Hunger
+- **Ice Cream:** 20 HP, 75 Hunger
+- **Flower Salad:** 40 HP, 5 Sanity
+- **Waffles:** 40 HP, 40 Sanity, 75 Hunger
+- **Veggie Burger:** 40 HP, 50 Sanity, 125 Hunger
+- **Mandrake Soup:** 80 HP, 5 Sanity
+- **Fresh Fruit Crepes:** 80 HP, 50 Sanity
+### Normal Foods
+- **Leafy Meatloaf:** -10 Sanity
+- **Fist-Full of Jam:** 40 Days Perish Time
+- **Meatballs:** 42.5 Hunger
+- **Spicy Chili:** 57.5 Hunger, 3 HP
+- **Stuffed Eggplant:** 75 Hunger
+- **Turkey Dinner:** 75 Hunger, 4 HP
+- **Stuffed Fish Heads:** 75 Hunger, 6 HP, -10 Sanity
+#### Recipe Changes
+- Turkey Dinner can use raw or cooked drumsticks
+- Dragonpie requires 2 fruit and cannot have meat nor inedibles
+- Meaty Stew requires 3.5 meat
+- Surf n' Turf has 15 priority
+- Monster Lasagna has 20 priority
+- Kabobs have 20 priority and 0.5 cooktime
+- Ice Cream, due to changes with the dairy system, require 1 Dairy instead of any amount
+- Veggie Burger requires 1 dough, 1 leafy meat & 1 onion but gives better stats to counterbalance this
+- Froggy Bunwhich requires 1 dough & 1 frog leg but gives better stats to counterbalance this
