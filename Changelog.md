@@ -62,7 +62,7 @@
 - Walking Cane adds only 20% speed & has 25D durability, but is more easily accessible
 - Eyebrella gives no summer insulation 
 - Spiderhat spoils instead of having durability, it takes 2 days to spoil.
-- The Ice Maker 3000 has been ported from ShipWrecked. It has a different recipe and makes ice once every 1/6D
+- The Ice Maker 3000 has been ported from Shipwrecked. It has a different recipe and makes ice once every 1/6D
 #### Armor
 - Log Suit has 360 Durability
 - Grass Suit has 65% Absorption
@@ -85,6 +85,9 @@
 	- Made with 4 Eggplants, 2 Rope and 2 Twigs, Blueprint unlocked from LotFF
 	- 59.5 damage, lasts 4 Days but cannot be put in ice box, damage *doesn't* scale with freshness
 ### Healing
+#### Vanillla
+- Most of your trusty healing foods have been neutered. The new healing "meta" revolves around actual medical items and sleeping
+- The Life-Giving Amulet heals 15 HP per Hunger and can now do it 30 times
 #### New Healing Items
 - Petal Salve. No Tech: 6 Petals, 1 Rock. Heals 15 HP
 - Fungal Salve. Science II: 6 Cooked Red Caps, 2 Boneshards, 1 Rock. Heals 60 HP
@@ -92,10 +95,6 @@
 - Greater Honey Poultice. Science II: 2 Papyrus, 1 Royal Jelly. Heals 800 HP
 - Luxury Roll: Science II: 1 Bedroll, 2 Down Feathers. Heals HP & Sanity at a 4:1 ratio per hunger
 - Feathered Pillow: Science I: 3 Pigskin, 5 Gobbler Feathers, 3 Silk. About halves the hunger drain while sleeping. Lasts 6 minutes, but can be sewn
-#### Misc
-- The Life-Giving Amulet heals 15 HP per Hunger and can now do it 30 times
-
-
 ## Events/Mechanics
 ### Summer Days / Winter Nights
 - There is a small chance during Winter/Summer that you will get the respective day event.
