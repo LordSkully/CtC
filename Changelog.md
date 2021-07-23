@@ -153,3 +153,5 @@
 - Ice Cream, due to changes with the dairy system, require 1 Dairy instead of any amount
 - Veggie Burger requires 1 dough, 1 leafy meat & 1 onion but gives better stats to counterbalance this
 - Froggy Bunwhich requires 1 dough & 1 frog leg but gives better stats to counterbalance this
+## Characters
+All character changes are on the Wiki: https://ctconstant.fandom.com/wiki/Conquer_The_Constant_Wiki
