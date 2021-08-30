@@ -3,7 +3,7 @@
 ### New Content For Old Biomes
 - Wild Tubers can be uncommonly spotted in The Constant's grasslands and clearings. When dug up, they reward you with 17.5 Hunger & work as a potato in the crock pot.
 - Webbed Trees are uncommonly spotted in The Constant's forests. They are home to a new kind of arboreal spider that shoots wooden pulp at you.
-- Asparagus can rearely be found in clearings, but more commonly found near large areas of ponds. 
+- Asparagus can rarely be found in clearings, but more commonly found near large areas of ponds. 
 - Brine Pools spawn in the mosiac and can be found in the Rockylands. They spawn skittish Salt Crabs that can be killed for fish meat, rocks, or salt.
 ### Setpiece Changes
 - The Gigantic Bee Hive can spawn in any "bee" biome. It is surrounded by 4 hornet nests
