@@ -143,7 +143,7 @@
 - **Stuffed Eggplant:** 75 Hunger
 - **Turkey Dinner:** 75 Hunger, 4 HP
 - **Stuffed Fish Heads:** 75 Hunger, 6 HP, -10 Sanity
-#### Recipe Changes
+### Recipe Changes
 - Turkey Dinner can use raw or cooked drumsticks
 - Dragonpie requires 2 fruit and cannot have meat nor inedibles
 - Meaty Stew requires 3.5 meat
@@ -159,7 +159,7 @@
 - **Ribs:** 1 Boneshard & 0.5 Meat. Filler can only be meat. Gives 12.5 Hunger, 2 HP, 5 Sanity. Gives an additional 100 hunger over the course of 10.67 minutes, allowing you to essentially "overheal" your hunger bar.
 - **Merm n' Chips:** 1 Bog Meat, 1 Potato. Excludes inedibles and frozens. Gives 52.5 Hunger, 40 HP, but -5 Sanity 
 - **Crabioli:** 1 Salt Crab, an egg, a veggie. Excludes ice and twigs. Gives 62.5 Hunger, 40 HP, & 10 Sanity
-- **Birchnut Milk:** 3 Birchnuts, 1 Ice. takes a very long time to cook. 0.5 units worth of dairy
+- **Birchnut Milk:** 3 Birchnuts, 1 Ice. Takes a very long time to cook. 0.5 units worth of dairy
 ##### Crop Dishes
 - **Carrot Stew:** 1 Carrot & 0.5 Meat. Excludes inedibles. Gives 50 Hunger, 2 HP, 5 Sanity.
 - **Corned Beef:** 1 Corn & 2 Meat. Excludes inedibles. Gives 100 Hunger, 4 HP, 5 Sanity.
