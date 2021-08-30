@@ -153,5 +153,22 @@
 - Ice Cream, due to changes with the dairy system, require 1 Dairy instead of any amount
 - Veggie Burger requires 1 dough, 1 leafy meat & 1 onion but gives better stats to counterbalance this
 - Froggy Bunwhich requires 1 dough & 1 frog leg but gives better stats to counterbalance this
+### New Dishes
+##### Normal Dishes
+- **Stuffed Mushrooms:** 2 Mushrooms & 0.5 Meat. Gives 52.5 Hunger, 3 HP, 5 Sanity.
+- **Ribs:** 1 Boneshard & 0.5 Meat. Filler can only be meat. Gives 12.5 Hunger, 2 HP, 5 Sanity. Gives an additional 100 hunger over the course of 10.67 minutes, allowing you to essentially "overheal" your hunger bar.
+- **Merm n' Chips:** 1 Bog Meat, 1 Potato. Excludes inedibles and frozens. Gives 52.5 Hunger, 40 HP, but -5 Sanity 
+- **Crabioli:** 1 Salt Crab, an egg, a veggie. Excludes ice and twigs. Gives 62.5 Hunger, 40 HP, & 10 Sanity
+- **Birchnut Milk:** 3 Birchnuts, 1 Ice. takes a very long time to cook. 0.5 units worth of dairy
+##### Crop Dishes
+- **Carrot Stew:** 1 Carrot & 0.5 Meat. Excludes inedibles. Gives 50 Hunger, 2 HP, 5 Sanity.
+- **Corned Beef:** 1 Corn & 2 Meat. Excludes inedibles. Gives 100 Hunger, 4 HP, 5 Sanity.
+- **Pomegranate Smoothie:** 1 Pomegranate, 1 Ice, 1 Egg. Excludes meat, veggies, and inedibles. Gives 37.5 Hunger, 80 HP, 
+30 Sanity.
+- **Eggy Chalice:** 1 Eggplant, 3 Eggs. Gives 75 Hunger, 3 HP, -10 Sanity.
+- **Pumpkin Pie:** 1 Pumpkin, 1 Sweetener, 2 Eggs. 92.5 Hunger, 3 HP, 20 Sanity. Warly Exclusive
+##### Crock Blockers
+- **Melas Zomos:** 1 Monster, 1 Meat & 1 Ice. Gives 37.5 Hunger, -10 HP, & -10 Sanity.
+- **Ice Soup:** 2 Ice. Gives 12.5 Hunger. Cools you down immensely.
 ## Characters
 All character changes are on the Wiki: https://ctconstant.fandom.com/wiki/Conquer_The_Constant_Wiki
