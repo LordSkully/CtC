@@ -40,13 +40,31 @@
 - Spitter Spiders have a 1/3 chance to drop a *Spituitary Gland*
 - Spiders will not panic when on fire or in the presence of a raid boss
 - Woodweavers are new ranged spiders that spawn from Webbed Trees. They also drop Spituitary Glands
-##### Misc
+#### Misc
 - Clockwork Rooks no longer run away, and they charge faster with a smaller wait in between charges
 - Clockwork Bishops drop gears instead of thulecite chunks
 - Catcoons drop 1 Morsel with a 50% chance to drop their tail
 - Gobblers Drop 1-2 *Gobbler Feathers*
 - Some Herbivores will eat farm crops and bulbous lightbugs
 - Bunnymen go rabid during full moons
+#### Hunt Mobs
+##### Varg
+- Varg spawns hounds less periodically, and once at 750 Health will kick into phase 2
+- In phase 2, the varg takes on a black appearance with red eyes. His stats are boosted but he no longer summons hounds
+- Varg now drops a purple gem alongside his other drops
+##### Squawstrich
+- Squawstriches spawn when your hunt ends up in a desert
+- They have 2,000 Health and deal 40 Damage. They can create a wind gust attack and will flee when at low health
+- They drop 2 Drumsticks, 3-6 Saffron Feathers, and 2-3 Up Feathers
+##### Malligator
+- Malligators spawn when your hunt ends up in the swamp
+- 4-5 Malligators will spawn per hunt, when hit you gain a bleeding effect
+- Each malligator drops 150% Maligator Spike & 1 Monster Meat
+##### Kator
+- Kator can spawn as a hunt surprise, eating what would be your Koalefant or Squawstrich
+- Kator has 2,000 Health and will hit you for 50 damage. If he hits you he will follow up with a double attack
+- Once at 1,000 Health he will kick into phase 2 where he has a lower attack period
+- He drops 6 Meat & 2 Kat Kloth
 ## Items
 ### Inventory Items
 - Beeswax can be used as a preservative just like salt
@@ -59,9 +77,6 @@
 #### Misc
 - Piggyback docks only 5% speed
 - The Pick/Axe has 600 Durability & 1.5x Efficiency. It costs 2 Thulecite & 6 Twigs
-- Walking Cane adds only 20% speed & has 25D durability, but is more easily accessible
-- Eyebrella gives no summer insulation 
-- Spiderhat spoils instead of having durability, it takes 2 days to spoil.
 - The Ice Maker 3000 has been ported from Shipwrecked. It has a different recipe and makes ice once every 1/6D
 #### Armor
 - Log Suit has 360 Durability
@@ -84,6 +99,16 @@
 - New Weapon: Eggplant Bat
 	- Made with 4 Eggplants, 2 Rope and 2 Twigs, Blueprint unlocked from LotFF
 	- 59.5 damage, lasts 4 Days but cannot be put in ice box, damage *doesn't* scale with freshness
+#### Dress
+- Walking Cane adds only 20% speed & has 25D durability, but is more easily accessible
+- Eyebrella gives no summer insulation 
+- Spiderhat spoils instead of having durability, it takes 2 days to spoil.
+- New Clothing: Snazzy Hat
+	- Made with 1 Top hat, 4 Up Feathers & 4 Hounds Teeth at Alchemy Engine
+	- Lasts 8 Days, gives 3.3 Sanity/M and gives a 50% resistance to all overtime insanity
+- New Clothing: Kat Kloak
+	- 2 Kat Kloth, 6 Reeds, & 4 Twigs at Alchemy Engine
+	- Lasts 10 Days. gives 1.1 Sanity/M, 180 Insulation, & 8 inventory slots  
 ### Healing
 #### Vanillla
 - Most of your trusty healing foods have been neutered. The new healing "meta" revolves around actual medical items and sleeping
@@ -104,6 +129,9 @@
 - The spiders in question, known as siege spiders, are relentless and do not obey to Webber
 - For the first one or two waves, the attack will be finished off by the Spider Queen rearing her head towards the carnage. After that, a far more terrifying monster will accost you: The Spider King
 - The Spider King is a brand new boss with 5,000 health and 3/4 custom attacks. He drops 2 Tusks, 6 Monster Meat & a Spiderhat.
+### Droughts
+- During the summer, droughts will periodically happen similar to rain during spring.
+- During droughts, you heat up faster & sandy mounds, which spawn drought worms, spawn in the desert.
 ### Tallbird Domestication
 - Tallbird Eggs take 2 Days to hatch, Smallbirds take 10 Days to grow, and Teenbirds take 8 Days to grow.
 - Smallbirds are now omnivorous
